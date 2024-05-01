@@ -4,7 +4,7 @@ ArchNote application source code and issue repository.
 1. To upload a compressed project in .tar.gz:
 > Note: It has to be in the top folder of your project. Example: *cd Documents/Proyectos*
 ```
-tar czvf ArchNoteSync_vMM.DD.tar.gz DirectorToCompress/*
+tar czvf ArchNoteSync_vMM.DD.tar.gz DirectoryToCompress/*
 ```
 2. To unzip, go to your project folder and run:
 ```
